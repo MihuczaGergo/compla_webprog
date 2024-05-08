@@ -1,0 +1,32 @@
+{
+  "complaints": [
+    {
+      "id": 1,
+      "description": "Jó termék",
+      "complaint": "Mihucza Gergő",
+      "product": "Asztali számítógép",
+      "type": "Megjavított"
+    },
+    {
+      "id": 2,
+      "description": "Rossz termék",
+      "complaint": "Kala Pál",
+      "product": "Mobiltelefon",
+      "type": "Szerelés alatt"
+    },
+    {
+      "id": 3,
+      "description": "Rossz termék",
+      "complaint": "Kiss Sándor",
+      "product": "Laptop",
+      "type": "Szerelés alatt"
+    },
+    {
+      "id": 4,
+      "description": "Jó termék",
+      "complaint": "Erős István",
+      "product": "Televízió",
+      "type": "Megjavított"
+    }
+  ]
+}
